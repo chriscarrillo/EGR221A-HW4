@@ -1,5 +1,6 @@
 /**
  * Created by Chris on 2/7/17.
+ * LetterInventory class tracks an inventory of letters
  */
 public class LetterInventory {
     private static final int ALPHA_SIZE = 26; // Constant of the alphabet size. Used throughout the program
