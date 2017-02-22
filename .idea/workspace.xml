@@ -22,8 +22,8 @@
       <file leaf-file-name="LetterInventory.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LetterInventory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="5" lean-forward="false" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+            <state relative-caret-position="1815">
+              <caret line="125" column="27" lean-forward="false" selection-start-line="125" selection-start-column="27" selection-end-line="125" selection-end-column="27" />
               <folding>
                 <element signature="e#497#498#0" expanded="true" />
                 <element signature="e#521#522#0" expanded="true" />
@@ -32,20 +32,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Anagrams.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Anagrams.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Anagrams.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="38" lean-forward="false" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
+            <state relative-caret-position="75">
+              <caret line="5" column="60" lean-forward="false" selection-start-line="5" selection-start-column="60" selection-end-line="5" selection-end-column="60" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AnagramMain.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AnagramMain.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/AnagramMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
+            <state relative-caret-position="300">
               <caret line="25" column="76" lean-forward="true" selection-start-line="25" selection-start-column="76" selection-end-line="25" selection-end-column="76" />
               <folding />
             </state>
@@ -665,7 +665,7 @@
       <workItem from="1487451205476" duration="22000" />
       <workItem from="1487464184436" duration="224000" />
       <workItem from="1487612994749" duration="135000" />
-      <workItem from="1487784799213" duration="3786000" />
+      <workItem from="1487784799213" duration="5376000" />
     </task>
     <task id="LOCAL-00001" summary="HW4 Part 1 Commit">
       <created>1487353580649</created>
@@ -683,7 +683,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16836000" />
+    <option name="totallyTimeSpent" value="18426000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="803" extended-state="6" />
@@ -929,8 +929,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LetterInventory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="5" lean-forward="false" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        <state relative-caret-position="1815">
+          <caret line="125" column="27" lean-forward="false" selection-start-line="125" selection-start-column="27" selection-end-line="125" selection-end-column="27" />
           <folding>
             <element signature="e#497#498#0" expanded="true" />
             <element signature="e#521#522#0" expanded="true" />
@@ -938,18 +938,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Anagrams.java">
+    <entry file="file://$PROJECT_DIR$/src/AnagramMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="38" lean-forward="false" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
+        <state relative-caret-position="300">
+          <caret line="25" column="76" lean-forward="true" selection-start-line="25" selection-start-column="76" selection-end-line="25" selection-end-column="76" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AnagramMain.java">
+    <entry file="file://$PROJECT_DIR$/src/Anagrams.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="25" column="76" lean-forward="true" selection-start-line="25" selection-start-column="76" selection-end-line="25" selection-end-column="76" />
+        <state relative-caret-position="75">
+          <caret line="5" column="60" lean-forward="false" selection-start-line="5" selection-start-column="60" selection-end-line="5" selection-end-column="60" />
           <folding />
         </state>
       </provider>
